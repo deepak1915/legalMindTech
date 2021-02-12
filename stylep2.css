@@ -1,0 +1,150 @@
+body{
+  background-color:blue;
+  font-style: normal;
+font-family: sans-serif;
+}
+
+.top{
+  color: white;
+  display: flex;
+  justify-content: center;
+  padding-top: 8px;
+  border: 2px 2px solid blue;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+.input1{
+  padding: 7px 0;
+  text-align: center;
+  border-radius: 10px;
+  margin-left: 35%;
+  margin-top: 12px;
+/*  padding-right: 40px;*/
+font-size: 20px;
+padding-right: 200px;
+text-align: left;
+padding-left: 3px;
+
+}
+h1{
+  text-align: center;
+  color: white;
+  font-size: 70px;
+  font-weight: bolder;
+  margin:0;
+}
+p,h5,h6{
+  text-align: center;
+  color: white;
+  text-emphasis-position: above;
+}
+.submit{
+  text-align: center;
+  padding: 8px;
+  color:red;
+  margin:4px;
+}
+.btn{
+  text-align: center;
+  padding:8px 18px;
+  background-color: mediumblue;
+  font-size: 20px;
+  border:none;
+  color:white;
+  margin-bottom: 45px;
+}
+#btn1{
+  margin-left: 40%;
+}
+h2{
+  /*line-height: -2px;*/
+  margin-top: 3px;
+}
+span{
+  margin-top:0;
+}
+.btn a{
+  text-decoration: none;
+  color:white;
+  font-size:20px;
+  margin-bottom: 20px;
+}
+#email1{
+  margin-bottom:0;
+}
+.lower1{
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  line-height: -.5rem;
+}
+#bottomline{font-size:12px;
+  margin-top: 0;
+  margin-left: 2px;
+}
+#lock{
+  color:yellow;
+  height:16px;
+  width:14px;
+  margin-left: 3px;
+}
+.footer{
+  background-color: white;
+  margin:0px;
+  padding: 0;
+}
+#line1{
+  font-size: 50px;
+  color:blue;
+  margin-top: 50px;
+  padding-top: 50px;
+}
+.footer1{
+  display:flex;
+  margin-left:0px;
+  color:darkblue;
+  margin-bottom: 45px;
+}
+.footer2{
+  display:flex;
+  justify-content: center;
+  margin-left:15%;
+}
+.line2{
+  margin-left: 20%;
+}
+#line2{
+  margin-left: 80px;
+  font-size: 30px;
+}
+h4{
+  text-align: center;
+  color:darkblue;
+  padding-bottom: 3px;
+}
+#linef11{
+  margin-left: 35%;
+  padding-top: 14px;
+  color:blue;
+}
+#line22{
+  margin-left: 15px;
+  font-weight: bolder;
+  margin-top: -30px;
+  font-size: 32px;
+}
+#logolast{
+  margin-right:0px;
+  padding-right: 90px;
+  margin-left: -90px;
+
+}
+.top span{
+  margin-top: -5px;
+}
+.footer span{
+  font-size: 14px;
+  margin-top: -3px;
+  color: purple;
+
+}
